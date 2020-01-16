@@ -1,0 +1,12 @@
+h1{
+  text-align: center;
+}
+
+.container{
+  margin-bottom: 50px;
+}
+
+#output{
+  font-weight: bold;
+  margin-top: 10px;
+}
